@@ -15,5 +15,12 @@ namespace Demo.Nuget.Test
             var o = new Class1();
             Assert.AreEqual(1, o.Method1());
         }
+
+        [Test]
+        public void Test2()
+        {
+            var o = new Class1();
+            Assert.AreEqual(2, o.Method2());
+        }
     }
 }

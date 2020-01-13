@@ -8,5 +8,10 @@ namespace Demo.Nuget
         {
             return 1;
         }
+
+        public int Method2()
+        {
+            return 2;
+        }
     }
 }
