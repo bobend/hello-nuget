@@ -178,3 +178,4 @@ FakesAssemblies/
 # NCrunch
 *.ncrunch*
 .*crunch*.local.xml
+.vs/
